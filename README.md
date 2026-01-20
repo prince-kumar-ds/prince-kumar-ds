@@ -73,15 +73,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince-kumar-ds&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prince-kumar-ds&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prince-kumar-ds&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=prince-kumar-ds&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🌐 Connect with Me
