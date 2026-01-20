@@ -2,8 +2,9 @@
 <h3 align="center">✨ Aspiring Data Scientist | AI/ML Enthusiast ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prince-kumar-ds&label=Profile%20views&color=0e75b6&style=flat" alt="prince-kumar-ds" />
+  <img src="https://komarev.com/ghpvc/?username=prince-kumar-ds&style=flat-square&color=red"/>
 </p>
+
 
 ---
 
@@ -73,12 +74,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince-kumar-ds&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prince-kumar-ds&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=prince-kumar-ds&theme=radical&hide_border=true"/>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prince-kumar-ds&theme=radical" alt="GitHub Streak" /></a>
+
 ---
 
 ### 🌐 Connect with Me
