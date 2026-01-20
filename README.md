@@ -78,9 +78,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prince-kumar-ds&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prince-kumar-ds&theme=radical" alt="GitHub Streak" /></a>
 ---
 
 ### 🌐 Connect with Me
