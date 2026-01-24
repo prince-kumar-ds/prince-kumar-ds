@@ -20,7 +20,7 @@
 
 📝 Hands-on with NLP workflows including text cleaning, tokenization, vectorization (TF-IDF), and model evaluation
 
-🌲 Exploring Ensemble models (Random Forest, XGBoost) to improve performance and generalization
+🌲 Explored Ensemble models (Random Forest, XGBoost) to improve performance and generalization
 
 🧠 Have explored Deep Learning, including neural networks and foundational concepts for NLP applications
 
