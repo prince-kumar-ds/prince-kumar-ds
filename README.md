@@ -72,15 +72,28 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prince-kumar-ds&theme=radical&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=prince-kumar-ds&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince-kumar-ds&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=prince-kumar-ds&show_icons=true&theme=radical&hide_border=true" 
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=radical&hide_border=true" 
+    height="165"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
