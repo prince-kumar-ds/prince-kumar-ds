@@ -76,23 +76,25 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=prince-kumar-ds&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=prince-kumar-ds&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=prince-kumar-ds&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=prince-kumar-ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
     alt="GitHub Stats"
   />
+</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="Top Languages"
   />
 </p>
+
 
 
 ---
