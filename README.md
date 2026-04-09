@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-🎓 Data Science undergraduate with a strong interest in Machine Learning and Natural Language Processing (NLP)
+🎓 Data Science undergraduate with a strong interest in Artificial Intelligence and Natural Language Processing (NLP)
 
 🐍 Proficient in Python for text preprocessing, feature engineering, and end-to-end ML pipelines
 
@@ -18,7 +18,7 @@
 
 🤖 Building and optimizing Machine Learning models using Scikit-Learn for classification, regression, and NLP tasks
 
-📝 Hands-on with NLP workflows including text cleaning, tokenization, vectorization (TF-IDF), and model evaluation
+📝 Hands-on with NLP workflows including text cleaning, tokenization, vectorization (TF-IDF), Embeddings, and model evaluation
 
 🌲 Explored Ensemble models (Random Forest, XGBoost) to improve performance and generalization
 
@@ -55,7 +55,7 @@
 • Feature Engineering and Model Evaluation
 
 🧠 **Deep Learning**
-• Convolutional Neural Networks (CNNs)
+• Neural Networks(ANN, CNN, RNN, LSTM, GRU, GAN, GPT, BERT)
 • Model Training and Deployment with Streamlit
 
 ✨ **Generative AI**
@@ -68,7 +68,30 @@
 ---
 
 ### 💼 Featured Projects
+🏠 99Acers – Real Estate Price Predictor
 
+🔗 https://prince-99acers.streamlit.app/
+
+A machine learning-powered web app that predicts real estate prices based on user inputs like location, area, and property features. Built to simplify property valuation with an intuitive UI.
+
+Key Highlights:
+
+📊 Data-driven price prediction using ML models
+⚡ Interactive web app built with Streamlit
+🧠 Real-world dataset preprocessing & feature engineering
+🎯 User-friendly interface for quick predictions
+🤖 AI Job Fetcher – Smart Job Aggregator
+
+🔗 https://prince-ai-job-agent.streamlit.app/
+
+An AI-based job discovery tool that fetches and filters relevant job listings automatically, helping users find opportunities faster and smarter.
+
+Key Highlights:
+
+🔍 Automated job scraping & aggregation
+🤖 AI-powered filtering for relevant roles
+⚡ Streamlit-based interactive dashboard
+⏱️ Saves time by eliminating manual job search
 
 ---
 
