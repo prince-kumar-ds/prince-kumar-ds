@@ -80,6 +80,8 @@ Key Highlights:
 ⚡ Interactive web app built with Streamlit
 🧠 Real-world dataset preprocessing & feature engineering
 🎯 User-friendly interface for quick predictions
+
+
 🤖 AI Job Fetcher – Smart Job Aggregator
 
 🔗 https://prince-ai-job-agent.streamlit.app/
