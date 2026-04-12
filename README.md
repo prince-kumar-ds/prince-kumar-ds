@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-🎓 Data Science undergraduate with a strong interest in Artificial Intelligence and Natural Language Processing (NLP)
+🎓 BCA undergraduate with a strong interest in Artificial Intelligence and Natural Language Processing (NLP)
 
 🐍 Proficient in Python for text preprocessing, feature engineering, and end-to-end ML pipelines
 
