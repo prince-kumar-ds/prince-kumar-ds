@@ -16,7 +16,7 @@
 
 📊 Experienced with Matplotlib, Seaborn, and SciPy for data exploration, visualization, and statistical validation
 
-🤖 Building and optimizing Machine Learning models using Scikit-Learn for classification, regression, and NLP tasks
+🤖 Building and optimizing Machine Learning models using Scikit-Learn for classification, regression, and NLP tas
 
 📝 Hands-on with NLP workflows including text cleaning, tokenization, vectorization (TF-IDF), Embeddings, and model evaluation
 
