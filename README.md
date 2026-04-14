@@ -94,6 +94,8 @@ Key Highlights:
 🤖 AI-powered filtering for relevant roles
 ⚡ Streamlit-based interactive dashboard
 ⏱️ Saves time by eliminating manual job search
+🎯 Intigrated Gemini for Resume buliding and Cover letter using Langchain.
+
 
 ---
 
