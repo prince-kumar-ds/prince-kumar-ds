@@ -1,105 +1,137 @@
-<h1 align="center">Hi 👋, I'm Prince Kumar </h1>
-<h3 align="center">✨ Aspiring Data Scientist | AI/ML Enthusiast ✨</h3>
+<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+
+<h3 align="center">
+AI Engineer • Generative AI • Machine Learning • LLM Applications
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prince-kumar-ds&style=flat-square&color=red"/>
+  Building intelligent AI systems using Machine Learning, Deep Learning, LLMs, RAG, and Agentic AI.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prince-kumar-ds&style=flat-square&color=blue" />
+</p>
 
 ---
 
-### 🧠 About Me
+# 🧠 About Me
 
-🎓 BCA undergraduate with a strong interest in Artificial Intelligence and Natural Language Processing (NLP)
+🎓 BCA Undergraduate passionate about Artificial Intelligence, Generative AI, and intelligent systems engineering.
 
-🐍 Proficient in Python for text preprocessing, feature engineering, and end-to-end ML pipelines
+🚀 Transitioned from a traditional Data Science path into building modern AI applications powered by LLMs, RAG pipelines, AI Agents, and orchestration frameworks.
 
-📊 Experienced with Matplotlib, Seaborn, and SciPy for data exploration, visualization, and statistical validation
+💡 Strong foundation in:
+- Python
+- Statistics & Mathematics
+- Machine Learning
+- Deep Learning
+- NLP & Embeddings
 
-🤖 Building and optimizing Machine Learning models using Scikit-Learn for classification, regression, and NLP tas
+⚡ Currently focused on:
+- LLM Application Development
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Memory Systems
+- Prompt & Context Engineering
+- Fine-Tuning LLMs
+- MCP & Agentic AI Workflows
+- AI Automation using n8n
+- FastAPI & AI Deployment
 
-📝 Hands-on with NLP workflows including text cleaning, tokenization, vectorization (TF-IDF), Embeddings, and model evaluation
+🛠️ I enjoy building production-oriented AI systems that combine reasoning, retrieval, automation, and real-world usability.
 
-🌲 Explored Ensemble models (Random Forest, XGBoost) to improve performance and generalization
-
-🧠 Have explored Deep Learning, including neural networks and foundational concepts for NLP applications
-
-💡 Passionate about transforming unstructured text data into meaningful insights and intelligent ML solutions
 ---
 
-### 🚀 Key Skills
+# 🚀 Tech Stack
+
+### 👨‍💻 Languages & Core
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="40" height="40" alt="Seaborn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42"/>
 </p>
 
+### 📊 Data Science & Machine Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="70"/>
+</p>
+
+### 🧠 Deep Learning & Generative AI
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42"/>
+</p>
+
+- Neural Networks (ANN, CNN, RNN, LSTM, GRU)
+- Transformers & Attention Mechanisms
+- GPT & BERT Fundamentals
+- Fine-Tuning & Inference Optimization
+- Embeddings & Vector Search
+- Prompt Engineering
+- Context Engineering
+
+### 🤖 AI Engineering Stack
+- LangChain
+- RAG Pipelines
+- Vector Databases
+- AI Agents & Memory
+- MCP (Model Context Protocol)
+- Agentic AI Frameworks
+- FastAPI
+- Streamlit
+- AI Automation with n8n
+- API Integrations & Deployment
 
 ---
 
-### 📌 Learning & Practicing
-📊 **Data Analysis (Foundation)**
-• NumPy, Pandas, SciPy
-• Exploratory Data Analysis (EDA)
-• Data Visualization using Matplotlib, Seaborn, Plotly
+# 📌 What I'm Working On
 
-🤖 **Machine Learning**
-• Scikit-learn
-• Regression and Classification Models
-• Feature Engineering and Model Evaluation
+🔹 Building LLM-powered applications and AI agents
 
-🧠 **Deep Learning**
-• Neural Networks(ANN, CNN, RNN, LSTM, GRU, GAN, GPT, BERT)
-• Model Training and Deployment with Streamlit
+🔹 Exploring scalable RAG architectures and memory systems
 
-✨ **Generative AI**
-• Large Language Models (LLMs)
-• Prompt Engineering
-• Natural Language Processing (NLP)
+🔹 Learning advanced orchestration and agentic workflows
 
+🔹 Developing production-ready AI APIs and automation pipelines
 
+🔹 Strengthening fundamentals in Deep Learning and Transformer architectures
 
 ---
 
-### 💼 Featured Projects
-🏠 99Acers – Real Estate Price Predictor
+# 💼 Featured Projects
+
+## 🏠 99Acers – Real Estate Price Predictor
 
 🔗 https://prince-99acers.streamlit.app/
 
-A machine learning-powered web app that predicts real estate prices based on user inputs like location, area, and property features. Built to simplify property valuation with an intuitive UI.
+A machine learning-powered web application that predicts real estate prices using property features, location intelligence, and predictive modeling.
 
-Key Highlights:
-
-📊 Data-driven price prediction using ML models
-⚡ Interactive web app built with Streamlit
-🧠 Real-world dataset preprocessing & feature engineering
-🎯 User-friendly interface for quick predictions
-
-
-🤖 AI Job Fetcher – Smart Job Aggregator
-
-🔗 https://prince-ai-job-agent.streamlit.app/
-
-An AI-based job discovery tool that fetches and filters relevant job listings automatically, helping users find opportunities faster and smarter.
-
-Key Highlights:
-
-🔍 Automated job scraping & aggregation
-🤖 AI-powered filtering for relevant roles
-⚡ Streamlit-based interactive dashboard
-⏱️ Saves time by eliminating manual job search
-🎯 Intigrated Gemini for Resume buliding and Cover letter using Langchain.
-
+### Highlights
+- End-to-end ML workflow
+- Feature engineering & preprocessing
+- Interactive Streamlit UI
+- Real-world regression problem solving
 
 ---
 
-## 📊 GitHub Statistics
+## 🤖 AI Job Fetcher – Intelligent Job Discovery Agent
+
+🔗 https://prince-ai-job-agent.streamlit.app/
+
+An AI-powered job aggregation platform that automates job discovery, filtering, and resume assistance using LLM workflows.
+
+### Highlights
+- Automated job scraping & aggregation
+- AI-powered role filtering
+- Resume & cover letter generation using Gemini + LangChain
+- Streamlit-based interactive dashboard
+- Workflow automation for job search efficiency
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
   <img 
@@ -110,32 +142,34 @@ Key Highlights:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=prince-kumar-ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=prince-kumar-ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-ds&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
-
-
 ---
 
-### 🌐 Connect with Me
+# 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/prince-datascientist" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
+
   <a href="https://instagram.com/justmeanmol" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-⭐ *Building intelligent, data-driven systems using Machine Learning, Deep Learning, and Generative AI.*
+<p align="center">
+  ⚡ Building AI systems that combine reasoning, retrieval, automation, and real-world impact.
+</p>
