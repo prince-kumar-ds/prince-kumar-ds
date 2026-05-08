@@ -159,7 +159,7 @@ An AI-powered job aggregation platform that automates job discovery, filtering, 
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/prince-datascientist" target="_blank">
+  <a href="www.linkedin.com/in/prince-kumar-bamaniya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 
